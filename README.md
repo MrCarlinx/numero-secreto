@@ -1,5 +1,7 @@
 # 🎯 Número Secreto
 
+https://mrcarlinx.github.io/numero-secreto/
+
 Bem-vindo ao jogo onde a lógica encontra o mistério!  
 Você consegue descobrir o número secreto antes que ele descubra você?
 
@@ -32,4 +34,5 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/MrCarlinx/numero-secreto.git
+
 
